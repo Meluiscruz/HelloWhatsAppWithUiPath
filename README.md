@@ -1,4 +1,4 @@
-# Hello Whatsapp with UiPath :robot:
+# Hello WhatsApp with UiPath :robot:
 
 A project which writes on Whatsapp Web and takes a photo.
 
