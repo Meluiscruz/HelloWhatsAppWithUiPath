@@ -1,6 +1,6 @@
 # Hello WhatsApp with UiPath :robot:
 
-A project which writes on Whatsapp Web and takes a photo.
+A project which types messages on Whatsapp Web and takes a photo.
 
 _*Note:*_ You should change the selectors and pre-login your account.
 
