@@ -8,6 +8,6 @@ _*Note:*_ You should change the selectors and pre-login your account.
 
 <div align="center">
    <p>
-     <img src="https://github.com/Meluiscruz/My_Image_bucket/blob/main/WhatsApp_Demo.gif">
+     <img src="https://github.com/Meluiscruz/My_Image_bucket/blob/main/WhatsApp_Demo.GIF">
    </p>
 </div>
